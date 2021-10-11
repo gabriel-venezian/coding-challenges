@@ -4,9 +4,7 @@
 
 ## Fórmula para realização do cálculo:
 
-$$
-IMC = Peso / Altura²
-$$
+> **IMC = Peso / Altura²**
 
 ## Tabela de resultados:
 
