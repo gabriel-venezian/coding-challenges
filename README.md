@@ -3,8 +3,7 @@
 [IMC](https://www.tuasaude.com/calculadora/imc/) significa Índice de Massa Corporal. Trata-se de um parâmetro utilizado para  saber se o peso está de acordo com a altura, o que pode interferir  diretamente na saúde e qualidade de vida de uma pessoa.
 
 ## Fórmula para realização do cálculo:
-
-> **IMC = Peso / Altura²**
+IMC = Peso / Altura²
 
 ## Tabela de resultados:
 
