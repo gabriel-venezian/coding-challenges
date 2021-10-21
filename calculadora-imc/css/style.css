@@ -1,7 +1,5 @@
 body {
-  background-image: url("https://cdn.pixabay.com/photo/2016/04/12/22/35/watercolour-1325656_960_720.jpg");
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background: url("https://cdn.pixabay.com/photo/2016/04/12/22/35/watercolour-1325656_960_720.jpg") 100% 100% / 100% 100% no-repeat;
   overflow: hidden; 
 }
 
