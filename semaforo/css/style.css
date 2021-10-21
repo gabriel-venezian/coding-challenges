@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    background: url("https://images.unsplash.com/photo-1473042904451-00171c69419d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1499&q=80") 100% 100% / 100% 100% no-repeat;
+}
+
 main {
     display: flex;
     height: 100vh;
@@ -13,5 +17,7 @@ main {
     gap: 5vh;
 }
 .button {
-    width: 80px;
+    width: 100px;
+    height: 50px;
+    font-size: 1.1em;
 }
