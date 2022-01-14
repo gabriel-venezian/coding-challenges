@@ -84,18 +84,18 @@
 
 @media (max-width:480px){
   .modal{
-      top:100%;
-      transition: all 1s ease;
+    top:100%;
+    transition: all 1s ease;
   }
   .modal.active{
-      top:0;
+    top:0;
   }
   .modal-content{
-      margin:0;
-      width:100%;
-      position:fixed;
+    margin:0;
+    width:100%;
+    position:fixed;
   }
   .modal-field{
-      width:100%;
+    width:100%;
   }
 }
