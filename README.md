@@ -1,5 +1,5 @@
 # Coding Challenges
 
-## Credits
+## Acknowledgements
 
 ## License
